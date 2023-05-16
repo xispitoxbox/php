@@ -1,0 +1,27 @@
+body{
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	background-color: #9F45F6;
+}
+
+body section{
+	background-color: #D43B78;
+	padding: 20px;
+	border-radius: 20px;
+}
+
+body section p a{
+	text-decoration: none;
+	font-size: 30px;
+}
+
+body section form{
+	display: flex;
+	justify-content: center;
+	flex-direction: column;
+}
+
+body section table tr td{
+	border: 1px solid black;
+}
